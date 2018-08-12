@@ -1,0 +1,2 @@
+ocamlbuild hello.native
+./hello.native
